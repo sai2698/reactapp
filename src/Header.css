@@ -1,0 +1,9 @@
+.header_wrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_item{
+   flex:1
+} 
